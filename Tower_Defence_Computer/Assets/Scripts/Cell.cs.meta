@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0a8700d2d2aaf4e30afeebe64a3f25ff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ShopPref: {instanceID: 0}
+  - TowerPref: {instanceID: 0}
+  - DestroyPref: {instanceID: 0}
+  - SelfTower: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
